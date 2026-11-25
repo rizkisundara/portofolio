@@ -1,5 +1,48 @@
 @import "tailwindcss";
 
+.project-media { position: relative; }
+.video-trigger {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  display: grid;
+  place-items: center;
+  border: 0;
+  background: transparent;
+}
+.video-trigger:focus-visible {
+  outline-offset: -4px;
+}
+.video-trigger-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 44px;
+  padding: 8px 15px;
+  border: 1px solid var(--accent);
+  border-radius: 8px;
+  background: var(--accent);
+  color: var(--onaccent);
+  font-size: 13px;
+  font-weight: 700;
+  white-space: nowrap;
+  box-shadow: 0 4px 18px #0007;
+}
+.video-trigger:is(:hover,:focus-visible) .video-trigger-label {
+  background: var(--soft);
+  border-color: var(--soft);
+}
+.dialog.video-dialog { width: min(420px, calc(100% - 24px)); }
+.catatin-player {
+  display: block;
+  width: max(200px, min(100%, 320px, 34dvh));
+  aspect-ratio: 9 / 16;
+  margin: 0 auto 12px;
+  border: 0;
+  background: #080d0b;
+}
+.video-fallback { padding: 10px 22px; }
+
 .project-pager {
   display: flex;
   justify-content: space-between;
