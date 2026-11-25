@@ -220,7 +220,34 @@
       "titleId": "Aplikasi Persetujuan Trakindo (CAP)"
     },
     "health": {
-      "title": "Healthcare & Case Management",
+      "title": "Health Care Management System (HCMS)",
+      "personal": false,
+      "tags": [
+        ".NET Core MVC",
+        "C#",
+        "SQL Server"
+      ],
+      "en": {
+        "desc": "An internal system at PT Syntech Mitra Integrasi for managing health insurance policies, members, and claims.",
+        "points": [
+          "Manage policies, benefit plans, and covered members.",
+          "Track inpatient and outpatient claims, including covered amounts and any excess.",
+          "Process claims in batches, manage payments, and maintain a list of partner hospitals and clinics."
+        ],
+        "note": "Internal system at PT Syntech Mitra Integrasi."
+      },
+      "id": {
+        "desc": "Aplikasi di PT Syntech Mitra Integrasi untuk mengelola polis, peserta, dan klaim asuransi kesehatan.",
+        "points": [
+          "Kelola polis, manfaat asuransi, dan data peserta yang ditanggung.",
+          "Pantau klaim rawat inap dan rawat jalan, termasuk biaya yang ditanggung dan selisih yang harus dibayar.",
+          "Proses klaim secara berkelompok, kelola pembayaran, dan perbarui daftar rumah sakit serta klinik rekanan."
+        ],
+        "note": "Aplikasi ini digunakan secara internal di PT Syntech Mitra Integrasi."
+      }
+    },
+    "cmw": {
+      "title": "Case Management Workflow (CMW)",
       "personal": false,
       "tags": [
         ".NET Core MVC",
@@ -232,26 +259,48 @@
         "IIS"
       ],
       "en": {
-        "desc": "At Syntech, I worked on systems for medical case management, billing, and healthcare data exchange.",
+        "desc": "At PT Syntech Mitra Integrasi, I worked on an application for tracking patient cases from pre-admission through discharge.",
         "points": [
-          "Developed .NET MVC frontend features and backend APIs in .NET and Go.",
-          "Worked on case management, medical billing, and healthcare data workflows.",
-          "Integrated external data sources and supported data synchronization.",
-          "Supported deployment with Docker and IIS."
+          "I built REST APIs in .NET and Go for admission, assessment, billing, and discharge.",
+          "The application shows case status and activity history so staff can track what has been done.",
+          "Staff can record activities and attach the documents required for each case."
         ],
-        "note": "Professional project without a public demo. No patient information or internal application screenshots are included."
+        "note": "Internal system at PT Syntech Mitra Integrasi."
       },
       "id": {
-        "desc": "Di Syntech, saya mengerjakan dua aplikasi. HCMS dipakai untuk mengelola polis dan klaim kesehatan. CMW dipakai untuk mengikuti penanganan pasien sampai pasien keluar.",
+        "desc": "Di PT Syntech Mitra Integrasi, saya mengerjakan aplikasi untuk memantau kasus pasien sejak sebelum masuk rumah sakit hingga pasien keluar.",
         "points": [
-          "Saya membuat tampilan dengan .NET Core MVC serta API dengan .NET dan Go.",
-          "Di CMW, saya mengerjakan API untuk penerimaan pasien, asesmen, penagihan, dan proses pasien keluar.",
-          "Saya membuat layanan .NET untuk mengambil dan mengolah data dari API eksternal.",
-          "Saya juga membantu menyiapkan Docker dan IIS untuk rilis aplikasi."
+          "Saya membuat REST API dengan .NET dan Go untuk penerimaan pasien, asesmen, penagihan, dan proses pasien keluar.",
+          "Petugas bisa melihat status kasus dan riwayat aktivitasnya.",
+          "Petugas juga bisa mencatat aktivitas dan melampirkan dokumen yang diperlukan untuk tiap kasus."
         ],
-        "note": "Ilustrasi di atas menggambarkan alur kerja. Data pasien dan tampilan aplikasi bersifat internal."
+        "note": "Aplikasi ini digunakan secara internal di PT Syntech Mitra Integrasi."
+      }
+    },
+    "clientPortal": {
+      "title": "Web Client Portal",
+      "personal": false,
+      "role": {
+        "en": "API Development · Go",
+        "id": "Pengembangan API · Go"
       },
-      "titleId": "Sistem Klaim dan Penanganan Pasien"
+      "tags": ["Go", "API"],
+      "en": {
+        "desc": "Syntech’s partner clinics and hospitals use this portal to check members’ insurance benefits and register them for treatment. I worked on the portal’s API in Go.",
+        "points": [
+          "Partner staff can check a member’s insurance benefits.",
+          "Partner staff can register a member who comes in for treatment."
+        ],
+        "note": "The portal is used by Syntech’s healthcare partners."
+      },
+      "id": {
+        "desc": "Klinik dan rumah sakit rekanan Syntech menggunakan portal ini untuk mengecek manfaat asuransi peserta dan mendaftarkan peserta yang datang berobat. Saya mengerjakan bagian API menggunakan Go.",
+        "points": [
+          "Petugas bisa mengecek manfaat asuransi peserta.",
+          "Petugas bisa mendaftarkan peserta yang datang berobat."
+        ],
+        "note": "Portal ini digunakan oleh rekanan layanan kesehatan Syntech."
+      }
     }
   },
   "english": {
