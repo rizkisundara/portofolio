@@ -1,0 +1,339 @@
+{
+  "translations": {
+    "navProjects": "Proyek",
+    "navExperience": "Pengalaman",
+    "navSkills": "Keahlian",
+    "navContact": "Kontak",
+    "heroEyebrow": "Software engineering / Jakarta, Indonesia",
+    "heroRole": "Full Stack Software Engineer.",
+    "heroDesc": "Saya mengembangkan aplikasi enterprise dan produk web pribadi yang menghubungkan <strong>alur bisnis, backend yang andal, dan antarmuka yang mudah digunakan.</strong> Pengalaman saya mencakup perbankan, kesehatan, asuransi, dan integrasi sistem enterprise.",
+    "viewWork": "Lihat portofolio",
+    "getContact": "Hubungi saya",
+    "boardTitle": "Dari ide menjadi aplikasi.",
+    "boardStatus": "BUILD & ITERATE",
+    "boardFoot": "Pendekatan pengembangan end-to-end.",
+    "factYears": "Tahun pengalaman profesional",
+    "factRoles": "Posisi profesional",
+    "factDemos": "Proyek pribadi dengan demo publik",
+    "factFocus": "Backend hingga antarmuka",
+    "projectsKicker": "01 / Portofolio pilihan",
+    "projectsTitle": "Proyek yang punya tujuan.",
+    "projectsDesc": "Produk pribadi yang dapat dicoba, serta beberapa proyek enterprise. Sistem internal hanya dijelaskan secara umum.",
+    "filterAll": "Semua proyek",
+    "filterPersonal": "Pribadi",
+    "filterProfessional": "Profesional",
+    "illustration": "Ilustrasi konsep",
+    "personalDemo": "Proyek pribadi / Demo publik",
+    "catDesc": "Platform pengelolaan keuangan pribadi untuk pengguna Indonesia, mencakup dompet, transaksi, anggaran, laporan, dan ledger untuk integritas transaksi.",
+    "lagaDesc": "Platform manajemen turnamen olahraga dengan pendaftaran tim, bagan otomatis, jadwal, skor, dan pengelolaan keuangan acara.",
+    "caseStudy": "Detail proyek",
+    "liveDemo": "Buka aplikasi",
+    "internalProject": "Proyek profesional / Sistem internal",
+    "bankTitle": "Aplikasi Enterprise Perbankan",
+    "bankDesc": "Pengembangan dan pemeliharaan aplikasi perbankan yang mendukung proses persetujuan, pemantauan transaksi, dan otomasi proses bisnis.",
+    "internalOnly": "Internal",
+    "capDesc": "Aplikasi persetujuan terpusat lintas aplikasi, dikembangkan dalam penugasan IForce untuk Trakindo.",
+    "healthTitle": "Healthcare & Case Management",
+    "healthDesc": "Aplikasi layanan kesehatan dan asuransi, termasuk alur kasus medis, billing, dan integrasi data di Syntech.",
+    "careerKicker": "03 / Pengalaman",
+    "careerTitle": "Membangun solusi nyata.",
+    "careerDesc": "Dari platform layanan kesehatan hingga otomasi perbankan, terlibat dalam berbagai tahap siklus pengembangan perangkat lunak.",
+    "aboutTitle": "Engineering bukan sekadar coding.",
+    "aboutDesc": "Waktu bootcamp, saya membuat aplikasi web sederhana untuk kebutuhan rumah sakit. Di Syntech, saya kemudian mengerjakan sistem yang dipakai untuk mencatat pasien masuk, memantau kasus, dan mengurus tagihan.",
+    "eduLabel": "Pendidikan",
+    "eduDegree": "S1 Teknik Elektro",
+    "bniDate": "FEB 2026 — SEKARANG",
+    "placement": "/ Penempatan proyek",
+    "bni1": "Saya mengembangkan modul web, antarmuka, dan REST API untuk operasional bank.",
+    "bni2": "Saya menghubungkan aplikasi dengan UiPath Orchestrator untuk mengotomatiskan proses bisnis.",
+    "bni3": "Saya menelusuri gangguan, menguji rilis, serta menyusun spesifikasi fungsional dan teknis.",
+    "iforceDate": "NOV 2025 — JAN 2026",
+    "iforce1": "Membuat fitur untuk meninjau pengajuan dari beberapa aplikasi Trakindo dalam satu halaman kerja.",
+    "iforce2": "Mengatur hak akses pengguna, menulis kueri SQL Server, dan menghubungkan aplikasi lewat REST API.",
+    "synDate": "APR 2024 — NOV 2025",
+    "syn1": "Membuat tampilan aplikasi dengan .NET Core MVC dan menulis API dengan .NET dan Go.",
+    "syn2": "Mengerjakan modul pasien masuk, asesmen, penagihan, dan pasien keluar.",
+    "syn3": "Mengotomatiskan pertukaran data antar‑sistem lewat API serta membantu rilis aplikasi dengan Docker dan IIS.",
+    "xsisDate": "OKT 2023 — JAN 2024",
+    "xsis1": "Saya mengikuti pelatihan pengembangan web dengan C#, SQL Server, dan JavaScript.",
+    "xsis2": "Merancang dan membuat aplikasi web sederhana untuk kebutuhan rumah sakit.",
+    "skillsKicker": "04 / Keahlian",
+    "skillsTitle": "Teknologi yang saya gunakan.",
+    "skillsDesc": "Teknologi dari pekerjaan profesional dan proyek pribadi, dikelompokkan berdasarkan fungsi tanpa persentase kemampuan yang tidak terukur.",
+    "skillDb": "Data & database",
+    "skillIntegration": "Integrasi & otomasi",
+    "skillQuality": "Pengujian & dokumentasi",
+    "contactKicker": "05 / Kontak",
+    "contactTitle": "Mari membangun solusi yang bermanfaat.",
+    "contactDesc": "Tertarik berdiskusi tentang software engineering, full stack development, atau kolaborasi? Hubungi saya melalui LinkedIn atau lihat karya saya di GitHub.",
+    "footerText": "Dibangun dengan tujuan.",
+    "backTop": "Kembali ke atas ↑",
+    "hello": "Halo, saya",
+    "heroScroll": "Gulir untuk menjelajah",
+    "photoRole": "Engineer sebagai profesi.",
+    "photoSub": "Berkarya karena rasa ingin tahu.",
+    "navAbout": "Tentang",
+    "aboutKicker": "02 / Tentang saya",
+    "aboutHead": "Rasa ingin tahu.<br/>Pilihan untuk berkarya.",
+    "aboutIntro": "Berlatar belakang teknik elektro, berkarier di bidang software, dan terus membuat produk digital yang bermanfaat.",
+    "storyTitle": "Saya senang menghubungkan sistem dan kebutuhan manusia melalui software.",
+    "storyBody": "Di luar pekerjaan, saya membuat Catatin untuk mencatat keuangan sehari-hari dan LAGAKAMI untuk mengatur pertandingan voli.",
+    "approach1": "Pahami masalah",
+    "approach2": "Rancang solusi",
+    "approach3": "Bangun, uji & perbaiki",
+    "seeCareer": "Lihat perjalanan karier ↗",
+    "careerIntroTitle": "Karier yang dibangun selangkah demi selangkah.",
+    "careerIntroBody": "Pengembangan profesional dari pelatihan .NET hingga pengembangan aplikasi enterprise dan produk mandiri."
+  },
+  "projects": {
+    "catatin": {
+      "title": "Catatin",
+      "personal": true,
+      "link": "https://catatin-henna.vercel.app/",
+      "tags": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Supabase",
+        "PostgreSQL",
+        "Zod",
+        "Vitest",
+        "Playwright"
+      ],
+      "en": {
+        "desc": "Track spending in rupiah, move money between wallets, and see what remains in each budget.",
+        "points": [
+          "Multi-wallet management, income and expense tracking, categories, and transfers.",
+          "Budgeting, savings goals, debt management, financial reports, and recurring transactions.",
+          "Financial ledger and idempotency mechanisms to support transaction integrity.",
+          "Automated unit and end-to-end testing tools included in the project."
+        ],
+        "note": "The public link is a live application. Feature scope is based on the repository; authenticated flows have not all been independently tested."
+      },
+      "id": {
+        "desc": "Saya membuat Catatin untuk mencatat uang masuk dan keluar, terutama kalau uangnya tersebar di beberapa dompet.",
+        "points": [
+          "Catat pemasukan, pengeluaran, dan transfer antardompet.",
+          "Atur anggaran bulanan, target tabungan, utang, dan piutang.",
+          "Setiap perubahan saldo masuk ke buku besar. Permintaan yang sama bisa diproses ulang tanpa mencatat transaksi dua kali.",
+          "Proyek ini memakai Vitest dan Playwright untuk pengujian."
+        ],
+        "note": "Daftar fitur mengikuti isi repositori. Sebagian fitur memerlukan login dan belum diuji secara independen."
+      }
+    },
+    "lagakami": {
+      "title": "LAGAKAMI",
+      "personal": true,
+      "link": "https://lagakami.vercel.app/",
+      "tags": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Prisma",
+        "PostgreSQL",
+        "Supabase"
+      ],
+      "en": {
+        "desc": "Manage a volleyball tournament from team registration to the final score.",
+        "points": [
+          "Tournament setup and public team registration.",
+          "Automated single-elimination brackets, bye handling, and team affiliation detection.",
+          "Match scheduling, scoring, and winner advancement.",
+          "Registration payments, tournament finances, public pages, QR codes, and report export."
+        ],
+        "note": "Feature scope is based on the repository and public application descriptions; not all authenticated flows have been independently tested."
+      },
+      "id": {
+        "desc": "Dengan LAGAKAMI, panitia turnamen voli bisa membuka pendaftaran tim, menyusun bagan, dan mencatat skor pertandingan.",
+        "points": [
+          "Tim bisa mendaftar lewat halaman turnamen.",
+          "Bagan sistem gugur disusun otomatis, termasuk saat jumlah tim membuat sebagian tim langsung lolos ke babak berikutnya.",
+          "Panitia bisa mengatur jadwal dan memasukkan skor. Pemenang lalu maju ke babak berikutnya.",
+          "Panitia juga bisa mencatat biaya pendaftaran dan mengunduh laporan keuangan turnamen."
+        ],
+        "note": "Daftar fitur mengacu pada repositori dan aplikasi publik. Sebagian alur setelah login belum diuji secara independen."
+      }
+    },
+    "bank": {
+      "title": "Enterprise Banking Application",
+      "titleId": "Aplikasi Operasional Bank",
+      "personal": false,
+      "tags": [
+        "C#",
+        "ASP.NET Core MVC",
+        "REST API",
+        "SQL Server",
+        "Entity Framework Core",
+        "JavaScript",
+        "UiPath"
+      ],
+      "en": {
+        "desc": "At BNI, I build web modules and connect banking workflows to UiPath automation.",
+        "points": [
+          "Develop and enhance web application features and business modules.",
+          "Develop frontend interfaces and backend REST APIs.",
+          "Integrate with UiPath Orchestrator, troubleshoot issues, and support testing and deployment.",
+          "Prepare functional and technical specifications (FSD and TSD)."
+        ],
+        "note": "Confidential enterprise project. Internal application names, screens, business rules, and technical configurations are intentionally not disclosed."
+      },
+      "id": {
+        "desc": "Dalam proyek di BNI, saya mengembangkan fitur aplikasi perbankan dan menghubungkannya dengan UiPath untuk menjalankan pekerjaan rutin.",
+        "points": [
+          "Menambah fitur dan merawat modul yang sudah digunakan tim.",
+          "Membuat tampilan web dan REST API yang menyediakan datanya.",
+          "Menghubungkan aplikasi dengan UiPath Orchestrator serta membantu pengujian dan rilis.",
+          "Menulis spesifikasi fungsi dan teknis aplikasi."
+        ],
+        "note": "Aplikasi ini digunakan secara internal di BNI."
+      }
+    },
+    "cap": {
+      "title": "Centralized Approval Application",
+      "personal": false,
+      "tags": [
+        "REST API",
+        "SQL Server",
+        "System Integration",
+        "Full Stack Development"
+      ],
+      "en": {
+        "desc": "At PT IForce, I helped Trakindo bring approval requests from several applications into one workspace.",
+        "points": [
+          "Developed frontend and backend application features.",
+          "Developed REST APIs and SQL Server queries.",
+          "Worked on authentication, authorization, integration, and debugging."
+        ],
+        "note": "Professional project without a public demo. The description is limited to general responsibilities and functionality."
+      },
+      "id": {
+        "desc": "Dulu, tim Trakindo harus login ke puluhan aplikasi untuk menyetujui pengajuan. Di IForce, saya ikut membuat CAP supaya mereka cukup login sekali.",
+        "points": [
+          "Pengguna bisa melihat pengajuan dari beberapa aplikasi, mengecek statusnya, dan menelusuri riwayat persetujuan.",
+          "Saya mengerjakan tampilan web, REST API, dan kueri SQL Server.",
+          "Saya juga menangani proses login, hak akses, dan integrasi dengan aplikasi lain."
+        ],
+        "note": "CAP digunakan secara internal di Trakindo."
+      },
+      "titleId": "Aplikasi Persetujuan Trakindo (CAP)"
+    },
+    "health": {
+      "title": "Healthcare & Case Management",
+      "personal": false,
+      "tags": [
+        ".NET Core MVC",
+        "C#",
+        "Golang",
+        "REST API",
+        "SQL Server",
+        "Docker",
+        "IIS"
+      ],
+      "en": {
+        "desc": "At Syntech, I worked on systems for medical case management, billing, and healthcare data exchange.",
+        "points": [
+          "Developed .NET MVC frontend features and backend APIs in .NET and Go.",
+          "Worked on case management, medical billing, and healthcare data workflows.",
+          "Integrated external data sources and supported data synchronization.",
+          "Supported deployment with Docker and IIS."
+        ],
+        "note": "Professional project without a public demo. No patient information or internal application screenshots are included."
+      },
+      "id": {
+        "desc": "Di Syntech, saya mengerjakan dua aplikasi. HCMS dipakai untuk mengelola polis dan klaim kesehatan. CMW dipakai untuk mengikuti penanganan pasien sampai pasien keluar.",
+        "points": [
+          "Saya membuat tampilan dengan .NET Core MVC serta API dengan .NET dan Go.",
+          "Di CMW, saya mengerjakan API untuk penerimaan pasien, asesmen, penagihan, dan proses pasien keluar.",
+          "Saya membuat layanan .NET untuk mengambil dan mengolah data dari API eksternal.",
+          "Saya juga membantu menyiapkan Docker dan IIS untuk rilis aplikasi."
+        ],
+        "note": "Ilustrasi di atas menggambarkan alur kerja. Data pasien dan tampilan aplikasi bersifat internal."
+      },
+      "titleId": "Sistem Klaim dan Penanganan Pasien"
+    }
+  },
+  "english": {
+    "navProjects": "Projects",
+    "navAbout": "About",
+    "navExperience": "Experience",
+    "navSkills": "Skills",
+    "navContact": "Contact",
+    "heroEyebrow": "Software engineering / Jakarta, Indonesia",
+    "hello": "Hello, I'm",
+    "heroRole": "Full Stack Software Engineer.",
+    "heroDesc": "I build enterprise applications and independent web products, connecting <strong>business workflows, reliable backends, and thoughtful user interfaces.</strong> My experience spans banking, healthcare, insurance, and enterprise system integration.",
+    "viewWork": "Explore my work",
+    "getContact": "Get in touch",
+    "photoRole": "Engineer by profession.",
+    "photoSub": "Builder by curiosity.",
+    "heroScroll": "Scroll to explore",
+    "factYears": "Years of professional experience",
+    "factRoles": "Professional roles",
+    "factDemos": "Public personal projects",
+    "factFocus": "Backend to user interface",
+    "projectsKicker": "01 / Selected work",
+    "projectsTitle": "Projects with purpose.",
+    "projectsDesc": "Independent products you can explore, alongside selected enterprise work. Public demos are linked; internal systems are described at a high level.",
+    "filterAll": "All projects",
+    "filterPersonal": "Personal",
+    "filterProfessional": "Professional",
+    "illustration": "Concept visualization",
+    "personalDemo": "Personal project / Public demo",
+    "catDesc": "A personal finance platform for Indonesian users, combining wallets, transactions, budgets, financial reporting, and a transaction-integrity-focused ledger.",
+    "caseStudy": "Project details",
+    "liveDemo": "Live demo",
+    "lagaDesc": "A sports tournament platform with team registration, automated brackets, scheduling, scoring, and event finance management.",
+    "internalProject": "Professional project / Internal system",
+    "bankTitle": "Enterprise Banking Application",
+    "bankDesc": "Development and maintenance of a banking application supporting approval workflows, transaction monitoring, and business process automation.",
+    "internalOnly": "Internal only",
+    "capDesc": "A central workspace for approval processes across multiple applications, developed during the IForce engagement for Trakindo.",
+    "healthTitle": "Healthcare &amp; Case Management",
+    "healthDesc": "Healthcare and insurance applications, including medical case workflows, billing, and data integration at Syntech.",
+    "aboutKicker": "02 / About me",
+    "aboutHead": "Curious by nature.<br/>Engineering by choice.",
+    "aboutIntro": "A background in electrical engineering, a career in software, and a drive to create useful digital products.",
+    "storyTitle": "I enjoy connecting systems and people through software.",
+    "aboutDesc": "Electrical engineering taught me to trace a problem through a system. I use that approach when an interface, an API, and a database need to agree.",
+    "storyBody": "Outside enterprise work, I built Catatin to track money across wallets and LAGAKAMI to help organizers run tournaments.",
+    "approach1": "Understand the problem",
+    "approach2": "Design the solution",
+    "approach3": "Build, test &amp; iterate",
+    "seeCareer": "Explore my career ↗",
+    "careerKicker": "03 / Experience",
+    "careerTitle": "Building in the real world.",
+    "careerDesc": "From healthcare platforms to banking automation, working across the software development lifecycle.",
+    "careerIntroTitle": "A career built step by step.",
+    "careerIntroBody": "Professional development from .NET training to enterprise software delivery and independent product development.",
+    "eduLabel": "Education",
+    "eduDegree": "B.Eng. Electrical Engineering",
+    "bniDate": "FEB 2026 — PRESENT",
+    "placement": "/ Project placement",
+    "bni1": "I build web modules, interfaces, and REST APIs for banking operations.",
+    "bni2": "I connect applications to UiPath Orchestrator to automate business processes.",
+    "bni3": "I investigate defects, test releases, and document functional and technical specifications.",
+    "iforceDate": "NOV 2025 — JAN 2026",
+    "iforce1": "I built web features and wrote API endpoints and database queries for a central approval system.",
+    "iforce2": "I maintained the application and worked on sign-in, permissions, and integrations.",
+    "synDate": "APR 2024 — NOV 2025",
+    "syn1": "I developed .NET Core MVC interfaces and wrote APIs in .NET and Go.",
+    "syn2": "I worked on medical case management, billing, data synchronization, and external API integrations.",
+    "syn3": "I supported releases with Docker and IIS and worked with the team in Jira and Bitbucket.",
+    "xsisDate": "OCT 2023 — JAN 2024",
+    "xsis1": "I trained in web development using C#, SQL Server, and JavaScript.",
+    "xsis2": "I designed and built a small healthcare application during training.",
+    "skillsKicker": "04 / Toolkit",
+    "skillsTitle": "Tools I work with.",
+    "skillsDesc": "Technologies used in professional work and independent projects, grouped by their purpose rather than arbitrary proficiency scores.",
+    "skillDb": "Data &amp; databases",
+    "skillIntegration": "Integration &amp; automation",
+    "skillQuality": "Testing &amp; documentation",
+    "contactKicker": "05 / Contact",
+    "contactTitle": "Let's build something useful.",
+    "contactDesc": "Interested in software engineering, full stack development, or a collaboration? Connect with me on LinkedIn or explore my work on GitHub.",
+    "footerText": "Built with purpose.",
+    "backTop": "Back to top ↑"
+  }
+}
